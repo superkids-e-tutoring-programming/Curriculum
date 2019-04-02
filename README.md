@@ -22,7 +22,7 @@ A general overview of the curriculum for 2019 at Superkids e-tutoring for the pr
     * Think in modules
     * Google is your best friend
   
-* Git and Git set up
+* Git and Github set up
   *  Importance of distributed Version control in Software development
   * Basic commands
     * Git push, Git pull, Git status, Git Add, Git Commit, Git Branch, Git Checkout, Git Clone, etc.
