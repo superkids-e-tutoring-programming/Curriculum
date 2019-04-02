@@ -167,3 +167,6 @@ A general overview of the curriculum for 2019 at Superkids e-tutoring for the pr
   
 * Tasks
   * Complete issues
+
+* Javascript
+  * introduction if time allows for light reactiveness
