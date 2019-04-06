@@ -16,11 +16,12 @@ A general overview of the curriculum for 2019 at Superkids e-tutoring for the pr
 
 ### Week 1 - Set up - In Progress
 
-* Quick overview of HTML, CSS and Javascript
-  * Demonstrate its purpose and it's presence on the web.
-  * Programming as a mentality
-    * Think in modules
-    * Google is your best friend
+
+* Aperçu rapide de HTML, CSS et Javascript
+  * Démontrer son but et sa présence sur le web.
+  * La programmation en tant que mentalité
+    * Pensez en modules
+    * Google est ton meilleur ami
   
 * Git and Github set up
   *  Importance of distributed Version control in Software development
